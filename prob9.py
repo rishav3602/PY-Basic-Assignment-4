@@ -1,3 +1,4 @@
-1. What exactly is []?
+9. What are the list concatenation and list replication operators?
 
-It is an empty list.
+The operator for list concatenation is + 
+while the operator for list replication is *.
